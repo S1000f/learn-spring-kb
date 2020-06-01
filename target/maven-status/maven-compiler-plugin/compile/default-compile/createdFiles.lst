@@ -1,1 +1,4 @@
+ioc/injection/HelloController.class
 my/maven/App.class
+config/ControllerConfig.class
+ioc/injection/BoardE.class
